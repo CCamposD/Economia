@@ -22,6 +22,8 @@ Precio del Mercado:
 P = 115
 ```
 
+---
+
 ### a) Si el precio de mercado es P = $115 por unidad, calcule el nivel de producción de la empresa
 
 Idea clave (esto es lo más importande de todo):
@@ -40,6 +42,8 @@ Aplicamos:
 100 = 4q
 q = 25
 ```
+
+---
 
 ### b)   Halle el nivel de beneficios
 
@@ -64,6 +68,8 @@ C(25) = 450 + 15(25) + 2(25)²
 π = 2875 − 2075 = 800
 ```
 
+---
+
 ### c) Obtenga el nivel de excedente del productor
 
 > Hay dos formas de resolver este punto, una es de forma analítica y la otra es de forma gráfica. Vamos a resolverlo de ambas formas.
@@ -87,6 +93,8 @@ EP = (100(25) - 2(25)²) - (100(0) - 2(0)²)
 EP = (2500 - 1250) - 0
 EP = 1250
 ```
+
+---
 
 ## Grafico
 
